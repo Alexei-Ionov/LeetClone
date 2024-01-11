@@ -1,0 +1,92 @@
+Date : 2023-07-31 21:33:01
+Directory : /Users/alexeiionov/practice
+Total : 49 files,  19734 codes, 56 comments, 295 blanks, all 20085 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          5 |     18,491 |          0 |          5 |     18,496 |
+| JavaScript |         38 |        999 |         31 |        221 |      1,251 |
+| CSS        |          3 |        185 |          2 |         35 |        222 |
+| Markdown   |          1 |         38 |          0 |         33 |         71 |
+| HTML       |          1 |         20 |         23 |          1 |         44 |
+| XML        |          1 |          1 |          0 |          0 |          1 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                               | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                  |         49 |     19,734 |         56 |        295 |     20,085 |
+| . (Files)                                                                          |          3 |     17,725 |          0 |         35 |     17,760 |
+| api                                                                                |          1 |          4 |          0 |          1 |          5 |
+| backend                                                                            |          4 |        841 |         13 |         27 |        881 |
+| backend (Files)                                                                    |          3 |        797 |          0 |         10 |        807 |
+| backend/Routes                                                                     |          1 |         44 |         13 |         17 |         74 |
+| public                                                                             |          2 |         45 |         23 |          2 |         70 |
+| src                                                                                |         39 |      1,119 |         20 |        230 |      1,369 |
+| src (Files)                                                                        |          9 |        258 |          9 |         55 |        322 |
+| src/Functions                                                                      |          3 |         49 |          3 |          9 |         61 |
+| src/Problems-Folder                                                                |          3 |        101 |          2 |         15 |        118 |
+| src/components                                                                     |         12 |        259 |          2 |         72 |        333 |
+| src/context                                                                        |          1 |         17 |          0 |          8 |         25 |
+| src/dataStructureComponents                                                        |          1 |         16 |          0 |          1 |         17 |
+| src/pages                                                                          |         10 |        419 |          4 |         70 |        493 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                           | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/alexeiionov/practice/README.md                                              | Markdown   |         38 |          0 |         33 |         71 |
+| /Users/alexeiionov/practice/api/axios.js                                           | JavaScript |          4 |          0 |          1 |          5 |
+| /Users/alexeiionov/practice/backend/Routes/router.js                               | JavaScript |         44 |         13 |         17 |         74 |
+| /Users/alexeiionov/practice/backend/index.js                                       | JavaScript |         18 |          0 |          8 |         26 |
+| /Users/alexeiionov/practice/backend/package-lock.json                              | JSON       |        759 |          0 |          1 |        760 |
+| /Users/alexeiionov/practice/backend/package.json                                   | JSON       |         20 |          0 |          1 |         21 |
+| /Users/alexeiionov/practice/package-lock.json                                      | JSON       |     17,639 |          0 |          1 |     17,640 |
+| /Users/alexeiionov/practice/package.json                                           | JSON       |         48 |          0 |          1 |         49 |
+| /Users/alexeiionov/practice/public/index.html                                      | HTML       |         20 |         23 |          1 |         44 |
+| /Users/alexeiionov/practice/public/manifest.json                                   | JSON       |         25 |          0 |          1 |         26 |
+| /Users/alexeiionov/practice/src/App.css                                            | CSS        |         33 |          0 |          6 |         39 |
+| /Users/alexeiionov/practice/src/App.js                                             | JavaScript |         34 |          0 |         11 |         45 |
+| /Users/alexeiionov/practice/src/App.test.js                                        | JavaScript |          7 |          0 |          2 |          9 |
+| /Users/alexeiionov/practice/src/DS.css                                             | CSS        |         11 |          1 |          1 |         13 |
+| /Users/alexeiionov/practice/src/Functions/CheckSolution.js                         | JavaScript |         22 |          2 |          5 |         29 |
+| /Users/alexeiionov/practice/src/Functions/GetTimeComplexity.js                     | JavaScript |         18 |          0 |          2 |         20 |
+| /Users/alexeiionov/practice/src/Functions/Savework.js                              | JavaScript |          9 |          1 |          2 |         12 |
+| /Users/alexeiionov/practice/src/Problems-Folder/Problem.js                         | JavaScript |         21 |          0 |          6 |         27 |
+| /Users/alexeiionov/practice/src/Problems-Folder/ProblemFramework.js                | JavaScript |         56 |          2 |          7 |         65 |
+| /Users/alexeiionov/practice/src/Problems-Folder/problems_info.js                   | JavaScript |         24 |          0 |          2 |         26 |
+| /Users/alexeiionov/practice/src/components/ Navbar.js                              | JavaScript |         31 |          0 |         12 |         43 |
+| /Users/alexeiionov/practice/src/components/CodeEditor.js                           | JavaScript |         27 |          1 |          9 |         37 |
+| /Users/alexeiionov/practice/src/components/DropDown.js                             | JavaScript |         20 |          0 |          4 |         24 |
+| /Users/alexeiionov/practice/src/components/GetAST.js                               | JavaScript |         14 |          0 |          3 |         17 |
+| /Users/alexeiionov/practice/src/components/LoadingDots.js                          | JavaScript |         11 |          0 |          3 |         14 |
+| /Users/alexeiionov/practice/src/components/Menu.js                                 | JavaScript |         23 |          0 |          3 |         26 |
+| /Users/alexeiionov/practice/src/components/MenuItem.js                             | JavaScript |         10 |          0 |          3 |         13 |
+| /Users/alexeiionov/practice/src/components/ProblemsList.js                         | JavaScript |         28 |          1 |          3 |         32 |
+| /Users/alexeiionov/practice/src/components/Row.js                                  | JavaScript |          9 |          0 |          4 |         13 |
+| /Users/alexeiionov/practice/src/components/SpaceVisualizer.js                      | JavaScript |         24 |          0 |          8 |         32 |
+| /Users/alexeiionov/practice/src/components/TimeAnalyzer.js                         | JavaScript |         30 |          0 |         10 |         40 |
+| /Users/alexeiionov/practice/src/components/UserInputTools.js                       | JavaScript |         32 |          0 |         10 |         42 |
+| /Users/alexeiionov/practice/src/context/AuthProvider.js                            | JavaScript |         17 |          0 |          8 |         25 |
+| /Users/alexeiionov/practice/src/dataStructureComponents/LinkedListVisualization.js | JavaScript |         16 |          0 |          1 |         17 |
+| /Users/alexeiionov/practice/src/index.css                                          | CSS        |        141 |          1 |         28 |        170 |
+| /Users/alexeiionov/practice/src/index.js                                           | JavaScript |         18 |          3 |          4 |         25 |
+| /Users/alexeiionov/practice/src/logo.svg                                           | XML        |          1 |          0 |          0 |          1 |
+| /Users/alexeiionov/practice/src/pages/Block.js                                     | JavaScript |         10 |          0 |          4 |         14 |
+| /Users/alexeiionov/practice/src/pages/Home.js                                      | JavaScript |          9 |          0 |          4 |         13 |
+| /Users/alexeiionov/practice/src/pages/LoginReq.js                                  | JavaScript |          9 |          0 |          3 |         12 |
+| /Users/alexeiionov/practice/src/pages/Problems.js                                  | JavaScript |         23 |          0 |          2 |         25 |
+| /Users/alexeiionov/practice/src/pages/Profile.js                                   | JavaScript |         25 |          0 |          6 |         31 |
+| /Users/alexeiionov/practice/src/pages/Progress.js                                  | JavaScript |         19 |          0 |          2 |         21 |
+| /Users/alexeiionov/practice/src/pages/SignIn.js                                    | JavaScript |        105 |          0 |         16 |        121 |
+| /Users/alexeiionov/practice/src/pages/SignUp.js                                    | JavaScript |        110 |          4 |         13 |        127 |
+| /Users/alexeiionov/practice/src/pages/Tools.js                                     | JavaScript |         45 |          0 |          8 |         53 |
+| /Users/alexeiionov/practice/src/pages/temp.js                                      | JavaScript |         64 |          0 |         12 |         76 |
+| /Users/alexeiionov/practice/src/reportWebVitals.js                                 | JavaScript |         12 |          0 |          2 |         14 |
+| /Users/alexeiionov/practice/src/setupTests.js                                      | JavaScript |          1 |          4 |          1 |          6 |
+| Total                                                                              |            |     19,734 |         56 |        295 |     20,085 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

@@ -1,0 +1,13 @@
+/* In a separate CSS file or a styled-component */
+.linked-node {
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .linked-node.current {
+    background-color: #ffcc00;
+    border-color: #ffa500;
+  }
