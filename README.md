@@ -1,4 +1,4 @@
-This project is intended to be a full-stack application similar to the popular "Leet Code" with extra bonus chat bot features to help with interview preperation. 
+This project is intended to be a full-stack application similar to the popular "Leet Code" with extra bonus chat bot features to help with interview preparation. 
 
 One of the most crucial aspects of preparing for technical interviews is data structures and algorithms. And with this preperation, the crux of it all 
 
